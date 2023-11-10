@@ -1,4 +1,5 @@
 ### 1. VPC(with subnets, igw, ngw, route tables, eips)
+ - route table: 2 works(routes, subnet associations)
 
 ### 2. EC2 Bastion (public a)
  - keypair
